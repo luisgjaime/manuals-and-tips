@@ -29,8 +29,11 @@ cerrar el administrador de perfiles.
     
     (**Muy importante usar `-no-remote`**)
 
+5. No olvidar **desactivar las actualizaciones autómaticas** de Firefox en Preferencias/General/Actualizaciones de 
+Firefox. Marcando la opción "Buscar Actualizaciones, pero permitirle elegir si instalarlas".
 
-## 2 Crear un acceso directo en el escritorio
+
+## 2 Crear un acceso directo en el escritorio (Opcional)
 
 Si queremos dejar esta instalación como otra versión de Firefox y tener un acceso directo en el escritorio, se puede
 crear de la siguiente manera.
